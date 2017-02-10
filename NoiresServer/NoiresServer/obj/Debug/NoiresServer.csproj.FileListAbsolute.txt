@@ -1,0 +1,15 @@
+d:\baldo\documents\visual studio 2015\Projects\NoiresServer\NoiresServer\bin\Debug\NoiresServer.dll
+d:\baldo\documents\visual studio 2015\Projects\NoiresServer\NoiresServer\bin\Debug\NoiresServer.pdb
+d:\baldo\documents\visual studio 2015\Projects\NoiresServer\NoiresServer\bin\Debug\ExitGames.Logging.Log4Net.dll
+d:\baldo\documents\visual studio 2015\Projects\NoiresServer\NoiresServer\bin\Debug\ExitGamesLibs.dll
+d:\baldo\documents\visual studio 2015\Projects\NoiresServer\NoiresServer\bin\Debug\log4net.dll
+d:\baldo\documents\visual studio 2015\Projects\NoiresServer\NoiresServer\bin\Debug\Photon.SocketServer.dll
+d:\baldo\documents\visual studio 2015\Projects\NoiresServer\NoiresServer\bin\Debug\ExitGames.Logging.Log4Net.pdb
+d:\baldo\documents\visual studio 2015\Projects\NoiresServer\NoiresServer\bin\Debug\ExitGames.Logging.Log4Net.xml
+d:\baldo\documents\visual studio 2015\Projects\NoiresServer\NoiresServer\bin\Debug\ExitGamesLibs.pdb
+d:\baldo\documents\visual studio 2015\Projects\NoiresServer\NoiresServer\bin\Debug\ExitGamesLibs.xml
+d:\baldo\documents\visual studio 2015\Projects\NoiresServer\NoiresServer\bin\Debug\Photon.SocketServer.pdb
+d:\baldo\documents\visual studio 2015\Projects\NoiresServer\NoiresServer\bin\Debug\Photon.SocketServer.xml
+d:\baldo\documents\visual studio 2015\Projects\NoiresServer\NoiresServer\obj\Debug\NoiresServer.csprojResolveAssemblyReference.cache
+d:\baldo\documents\visual studio 2015\Projects\NoiresServer\NoiresServer\obj\Debug\NoiresServer.dll
+d:\baldo\documents\visual studio 2015\Projects\NoiresServer\NoiresServer\obj\Debug\NoiresServer.pdb

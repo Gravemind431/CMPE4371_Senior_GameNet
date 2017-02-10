@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Noires.Plugins", "Noires.Plugins.csproj", "{5AC3D704-21A5-F309-FE36-25F801131075}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Noires", "Noires.csproj", "{D4CC8101-F59E-8D0D-34AF-64DB26E24152}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AC3D704-21A5-F309-FE36-25F801131075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC3D704-21A5-F309-FE36-25F801131075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC3D704-21A5-F309-FE36-25F801131075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC3D704-21A5-F309-FE36-25F801131075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4CC8101-F59E-8D0D-34AF-64DB26E24152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4CC8101-F59E-8D0D-34AF-64DB26E24152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4CC8101-F59E-8D0D-34AF-64DB26E24152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4CC8101-F59E-8D0D-34AF-64DB26E24152}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
