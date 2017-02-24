@@ -1,0 +1,18 @@
+13192: 01:40:33.473 - ---
+13192: 01:40:33.473 - Service: "Photon Socket Server" starting
+13192: 01:40:33.473 - Config File: D:\Baldo\Documents\GitHub\CMPE4371_Senior_GameNet\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+13192: 01:40:33.475 - Will produce at most: 10 crash dumps
+13192: 01:40:33.475 - Service shutting down
+13192: 01:40:33.476 - Service shut down complete
+4900: 02:13:02.441 - ---
+4900: 02:13:02.441 - Service: "Photon Socket Server" starting
+4900: 02:13:02.441 - Config File: D:\Baldo\Documents\GitHub\CMPE4371_Senior_GameNet\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+4900: 02:13:02.443 - Will produce at most: 10 crash dumps
+4900: 02:13:02.443 - Service shutting down
+4900: 02:13:02.444 - Service shut down complete
+8388: 06:42:46.536 - ---
+8388: 06:42:46.536 - Service: "Photon Socket Server" starting
+8388: 06:42:46.536 - Config File: D:\Baldo\Documents\GitHub\CMPE4371_Senior_GameNet\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+8388: 06:42:46.537 - Will produce at most: 10 crash dumps
+8388: 06:42:46.538 - Service shutting down
+8388: 06:42:46.539 - Service shut down complete

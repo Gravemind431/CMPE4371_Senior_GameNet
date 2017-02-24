@@ -88,7 +88,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\CameraFollow.cs" />
+    <Compile Include="Assets\EngineState.cs" />
     <Compile Include="Assets\NewNet.cs" />
+    <Compile Include="Assets\OpCodes.cs" />
     <Compile Include="Assets\Photon\DemoCode\DemoConstants.cs" />
     <Compile Include="Assets\Photon\DemoCode\GameLogic.cs" />
     <Compile Include="Assets\Photon\DemoCode\ParticlePlayer.cs" />

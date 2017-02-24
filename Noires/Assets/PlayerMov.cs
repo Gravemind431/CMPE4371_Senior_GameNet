@@ -1,9 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using ExitGames.Client.Photon.LoadBalancing;
-using ExitGames.Client.Photon;
-using Hashtable = ExitGames.Client.Photon.Hashtable;
 
 
 public class PlayerMov : MonoBehaviour {
@@ -14,7 +11,6 @@ public class PlayerMov : MonoBehaviour {
     int floorMask;
     float camRayLength = 100f;
 
-    public NewNet GameInstance;
 
     void Awake()
     {
@@ -24,9 +20,7 @@ public class PlayerMov : MonoBehaviour {
 
     // Use this for initialization
     void Start () {
-        Application.runInBackground = true;
-        this.GameInstance = new NewNet();
-        this.GameInstance.CallConnect();
+
 	}
 	
 	// Update is called once per frame

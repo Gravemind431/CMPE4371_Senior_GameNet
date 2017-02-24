@@ -1,0 +1,6 @@
+D:\Baldo\Documents\GitHub\CMPE4371_Senior_GameNet\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\NoiresServer\bin\NoiresServer.dll
+D:\Baldo\Documents\GitHub\CMPE4371_Senior_GameNet\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\NoiresServer\bin\NoiresServer.pdb
+D:\Baldo\Documents\GitHub\CMPE4371_Senior_GameNet\NoiresServer\obj\Debug\NoiresServer.csprojResolveAssemblyReference.cache
+D:\Baldo\Documents\GitHub\CMPE4371_Senior_GameNet\NoiresServer\obj\Debug\NoiresServer.dll
+D:\Baldo\Documents\GitHub\CMPE4371_Senior_GameNet\NoiresServer\obj\Debug\NoiresServer.pdb
+D:\Baldo\Documents\GitHub\CMPE4371_Senior_GameNet\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\NoiresServer\bin\log4net.config
