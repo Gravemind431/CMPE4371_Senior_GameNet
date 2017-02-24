@@ -1,0 +1,7 @@
+﻿2017-02-24 12:22:31,578 [1] INFO  NoiresApplication - Test!
+2017-02-24 12:22:31,596 [1] INFO  Photon.SocketServer.ApplicationBase - Application start: AppId=NoiresApplication; AppPath=D:\Baldo\Documents\GitHub\CMPE4371_Senior_GameNet\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\NoiresServer, Type=NoiresApplication 
+2017-02-24 12:22:58,862 [1] INFO  Photon.SocketServer.ApplicationBase - Application is stopping: AppId=NoiresApplication
+2017-02-24 12:22:58,887 [1] INFO  NoiresApplication - Called TearDown():
+2017-02-24 12:22:58,894 [1] ERROR Photon.SocketServer.ApplicationBase - System.NotImplementedException: The method or operation is not implemented.
+   at NoiresApplication.TearDown() in D:\Baldo\Documents\GitHub\CMPE4371_Senior_GameNet\NoiresServer\NoiresApplication.cs:line 38
+   at Photon.SocketServer.ApplicationBase.PhotonHostRuntimeInterfaces.IPhotonControl.OnStop() in h:\svncontent\photon-socketserver-sdk_cloud\src\Photon.SocketServer\ApplicationBase.cs:line 1204
